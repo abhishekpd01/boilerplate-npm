@@ -2,9 +2,15 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "foobar",
 	"description": "This is my second challenge.",
-	"keywords": ["This", "is", "challenge 3", "freecodecamp"],
+	"keywords": [
+		"This",
+		"is",
+		"challenge 3",
+		"freecodecamp"
+	],
 	"version": "1.2.0",
 	"dependencies": {
+		"@freecodecamp/example": "^2.0.0",
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
