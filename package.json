@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "foobar",
 	"description": "This is my second challenge.",
+	"keywords": ["This", "is", "challenge 3"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
